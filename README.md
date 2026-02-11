@@ -12,7 +12,7 @@ It investigates how **food insecurity (FIES)**, **resilience**, and **stress min
 - `Data_visualization_Analytical_Report.pdf` — Analytical report (results + interpretation)
 - `Data_visualization_Technical_Report.pdf` — Technical report (methods + steps)
 - `Presentation.pptx` — Project presentation slides  
-> ⚠️ If the original Excel file contains emails/names, avoid publishing it.
+
 
 ---
 
